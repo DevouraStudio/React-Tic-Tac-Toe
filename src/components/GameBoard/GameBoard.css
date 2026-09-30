@@ -29,3 +29,10 @@
   font-family: "Caprasimo", cursive;
   padding: 1rem;
 }
+
+@media (max-width: 768px) {
+  #game-board button {
+    width: 7rem;
+    height: 7rem;
+  }
+}
