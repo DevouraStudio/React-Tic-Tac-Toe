@@ -46,3 +46,9 @@
   background-color: #46432f;
   text-align: center;
 }
+
+@media (max-width: 768px) {
+  .player-name {
+    width: 5rem;
+  }
+}
